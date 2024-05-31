@@ -1,17 +1,13 @@
 html {
   background-color: #b9d5ef;
-  text-align: right;
 }
 
 body {
   width: 600px;
-  margin: 50px 50px;
-  margin-left: auto;
-  margin-left: 200px;
   background-color: #ff9500;
-  padding: 0 20px 20px 20px;
-  text-align: right;
+  text-align: center;
   border: 5px solid black;
+  border-radius: 100%;
 }
 
 h1 {
@@ -23,4 +19,8 @@ p {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+.sabiha-image {
+  border-radius: 20%;
 }
